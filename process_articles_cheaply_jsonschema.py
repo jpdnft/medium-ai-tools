@@ -42,7 +42,7 @@ DEFAULT_MODEL = "gpt-4o-mini"
 DEFAULT_BATCH_SIZE = 500
 DEFAULT_MAX_CHARS = 10000
 DEFAULT_SLEEP_SECONDS = 0.5
-DEFAULT_START_AFTER_FILENAME = "2019-08-01_The-Mathematics-of--Gas--Grass--or-Ass--No-one-Rides-for-Free---a7c396b6c4ce.html"
+DEFAULT_START_AFTER_FILENAME = ""
 
 
 # This schema is sent to OpenAI. It is intentionally strict because OpenAI's
